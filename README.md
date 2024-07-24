@@ -1,4 +1,4 @@
-# Unlocking CRM Potential with Microsoft SQL Server
+# FINANCIAL HEALTH MONITOR 
 ## Objective
 This project aims to enhance customer relationship management (CRM) by leveraging Microsoft SQL Server. By creating integrated tables, analyzing customer satisfaction, and detecting fraudulent transactions, the project seeks to improve operational efficiency and customer satisfaction.
 
